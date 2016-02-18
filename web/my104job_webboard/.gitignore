@@ -1,0 +1,7 @@
+deps
+mix.lock
+bower_components
+node_modules
+_build
+priv/static/*
+config/prod.exs

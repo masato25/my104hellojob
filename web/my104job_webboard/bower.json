@@ -1,0 +1,24 @@
+{
+  "name": "my104job_webboard",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Masato25 <leomasato25@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/masato25/my104job_webboard",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.3",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "lodash": "~3.10.1"
+  }
+}

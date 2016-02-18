@@ -1,0 +1,6 @@
+::before
+<div class="container">
+  <div class="row">
+    <div id="myreact"></div>
+  </div>
+</div>

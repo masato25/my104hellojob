@@ -1,0 +1,19 @@
+<h3> JobList </h3>
+<table>
+  <thead>
+    <th>create_at</th>
+    <th>company_name</th>
+    <th>job_name</th>
+    <th>salary</th>
+  </thead>
+  </thead>
+  <tbody>
+    <%= for j <- @jj do %>
+      <td><%= j.create_at %></td>
+      <td><%= j.company_name %></td>
+      <td><%= j.job_name %></td>
+      <td><%= "#{j.sal_low} ~ #{j.sal_high}" %></td>
+      <tr>
+    <% end %>
+  </tbody>
+</table>

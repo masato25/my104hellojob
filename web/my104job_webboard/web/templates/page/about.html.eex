@@ -1,0 +1,11 @@
+<div class="page-header">
+  <h1>關於此JobBoard</h1>
+</div>
+<div class="well">
+  <p>
+    科技技術職常常會有一個疑問, 什麼樣的工作叫做高薪？
+    什麼樣的公司願意出得起較高的薪水？台灣普遍的公司喜歡寫“面議”.
+    導致人才薪水被低估的狀況我想是很多的, 本版使用<a href="http://www.104.com.tw/i/api_doc/jobsearch/">104openApi</a>
+    將有寫薪水的誠實公司列表出來,讓好公司不再埋沒,薪水行情可以更趨透明
+  </p>
+</div>
